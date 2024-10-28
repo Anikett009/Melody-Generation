@@ -1,0 +1,7 @@
+#dataset
+/deutschl
+/dataset
+
+#model
+/model.pth
+/cuda.py
